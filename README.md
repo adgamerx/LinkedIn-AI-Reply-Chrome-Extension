@@ -2,6 +2,8 @@
 
 A Chrome extension that leverages AI to generate replies on LinkedIn.
 
+https://github.com/user-attachments/assets/665bf09c-a6d7-45ce-8868-9d51e4d4a12a
+
 ## Overview
 
 This Chrome extension leverages AI to generate replies on LinkedIn. It provides a user-friendly interface to quickly generate and insert responses into LinkedIn message input areas.
